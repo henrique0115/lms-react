@@ -24,10 +24,12 @@ The LMS React web app is our pilot program and is part of the REPROGRAMA JUCÁS 
 </div>
 
 
-- Ética
-- Empreendedorismo
-- Segurança da Informação
-- LinkedIn
-- Chat GPT
+
+​
+- Ethic
+- Entrepreneurship
+- Information security
+-LinkedIn
+- GPT Chat
 - GitHub
-- Inglês
+- English
