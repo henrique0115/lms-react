@@ -1,8 +1,8 @@
-# Web-Development-Course
+# LMS React Web App
 
-O curso de Desenvolvimento Web é o nosso programa piloto e faz parte do projeto REPROGRAMA JUCÁS com a direção do Empreenda Mais. Ele está em andamento capacitando jovens na área de programação e empreendedorismo que é uma idealização da prefeitura municipal junto ao CVT jucaense com o objetivo de gerar renda através da formação profissional e fomentar a tecnologia em nosso município.
+The LMS React web app is our pilot program and is part of the REPROGRAMA JUCÁS project led by Henrique Melo. It is underway training young people in the area of programming and entrepreneurship, which is an idealization of the municipal government together with the CVT of Jucaense with the objective of generating income through professional training and promoting technology in our municipality.
 
-### Dentre as tecnologias abordadas temos:
+### Among the technologies covered we have:
 
 <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -23,7 +23,6 @@ O curso de Desenvolvimento Web é o nosso programa piloto e faz parte do projeto
   SQL
 </div>
 
-### Além de conteúdos complementares como:
 
 - Ética
 - Empreendedorismo
